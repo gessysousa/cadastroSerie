@@ -1,0 +1,13 @@
+D:\Projetos\DecolaTech\InovaTechDIO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+D:\Projetos\DecolaTech\InovaTechDIO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+D:\Projetos\DecolaTech\InovaTechDIO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+D:\Projetos\DecolaTech\InovaTechDIO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+D:\Projetos\DecolaTech\InovaTechDIO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+D:\Projetos\DecolaTech\InovaTechDIO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\Projetos\DecolaTech\InovaTechDIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+D:\Projetos\DecolaTech\InovaTechDIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+D:\Projetos\DecolaTech\InovaTechDIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+D:\Projetos\DecolaTech\InovaTechDIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+D:\Projetos\DecolaTech\InovaTechDIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+D:\Projetos\DecolaTech\InovaTechDIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\Projetos\DecolaTech\InovaTechDIO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
